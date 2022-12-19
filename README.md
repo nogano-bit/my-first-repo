@@ -1,2 +1,2 @@
-# my-first-repo minor change
+# my-first-repo mino
 Practice account for learning Git
